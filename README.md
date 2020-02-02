@@ -5,7 +5,7 @@ Este foi feito em Flutter.
 ## Sobre
 
 Este app converte moedas em tempo real, utilizando a api do [hgbrasil](https://hgbrasil.com/)
-Este app tem suport para 3 moedas
+Este app tem suporte para 3 moedas
 - Real
 - Euro
 - Dolar
