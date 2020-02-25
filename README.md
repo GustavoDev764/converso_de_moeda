@@ -10,7 +10,7 @@ Este app tem suporte para 3 moedas
 - Euro
 - Dolar
 
-![App Screenshot](Fotos/converso1.png)
+![App Screenshot1](Fotos/converso1.png=250x250)
 
 
 ## Documentação online do Flutter
