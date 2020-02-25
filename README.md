@@ -11,6 +11,8 @@ Este app tem suporte para 3 moedas
 - Dolar
 
 <img src="Fotos/converso1.png" height="600" width="300">
+<img src="Fotos/converso2.png" height="600" width="300">
+<img src="Fotos/converso3.png" height="600" width="300">
 
 ## Documentação online do Flutter
 For help getting started with Flutter, view our
