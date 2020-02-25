@@ -10,7 +10,7 @@ Este app tem suporte para 3 moedas
 - Euro
 - Dolar
 
-![App Screenshot1](Fotos/converso1.png | width=100)
+![App Screenshot1]<img src="Fotos/converso1.png" height="24" width="48">
 
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
