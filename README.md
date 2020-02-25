@@ -12,9 +12,6 @@ Este app tem suporte para 3 moedas
 
 <img src="Fotos/converso1.png" height="500" width="1000">
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-
 ## Documentação online do Flutter
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
